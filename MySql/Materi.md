@@ -367,7 +367,7 @@ SELECT * DISTINCT nama_kolom FROM nama_tabel;
 | -      | Pengurangan                  |
 | -      | - Didepan angka atau negatif |
 | /      | Membagi                      |
-| DI     | Membagi menjadi Integer      |
+| DIV     | Membagi menjadi Integer      |
 
 ```sql
 SELECT nama_kolom, nama_kolom DIV 1000 AS 'PRICE in k' FROM nama_tabel;
