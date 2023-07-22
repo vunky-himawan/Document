@@ -2,7 +2,7 @@
 
 ## Eksplorasi Siklus Manajemen Proyek
 
-![Gambar 4](/img/dos_ff94081cbd579307f70aab52c6052b5120230217115210.png)
+![Gambar 1](/dicoding-manajemen-proyek/img/dos_ff94081cbd579307f70aab52c6052b5120230217115210.png)
 
 #### 1. Inisiasi Proyek
 
@@ -70,7 +70,7 @@ SMART : Apa tujuannya?
 
 OKR : Apa tujuannya? dan bagaimana cara mencapainya?
 
-![Gambar 5](/img/dos_2b1c5069861d0baa284c8f94eee6430520230217115428.png)
+![Gambar 2](/dicoding-manajemen-proyek/img/dos_2b1c5069861d0baa284c8f94eee6430520230217115428.png)
 
 Objective : Menjelaskan tujuan yang akan dicapai.
 
@@ -125,7 +125,7 @@ Ada dua hal yang perlu diketahui dalam menyusun milestones yaitu **_Project Task
 
 Ada dua hal yang perlu diketahui ketika menerapkan milestones :
 
-![Gambar 6](/img/dos_caa07b1d32238b1ce1bd54ebdb1bfc7920230217115618.png)
+![Gambar 3](/dicoding-manajemen-proyek/img/dos_caa07b1d32238b1ce1bd54ebdb1bfc7920230217115618.png)
 
 1. **_Top-Down Scheduling_** : Pada pendekatan ini, project manager menetapkan milestones yang lebih tinggi (Bendera Kuning), kemudian dipecah menjadi tugas proyek yang lebih kecil (Bendera Hijau) project manager bekerja dengan anggota tim untuk memastikan bahwa semua tugas sudah tercakup.
 
@@ -150,9 +150,8 @@ Work Breakdown Structure adalah sebuah alat yang digunakan untuk mengurutkan _pr
 | Mengelola risiko            | WBS akan dapat mengelola risiko sejak awal karena jadwalnya telah terpetakan.                                                                                        |
 | Fleksibilitas               | WBS ini dapat digunakan pada berbagai bidang keilmuan.                                                                                                               |
 
-![Gambar 7](/img/dos_60132c7ed135dd8f596e6483535f2c8420230217115732.png)
+![Gambar 4](/dicoding-manajemen-proyek/img/dos_60132c7ed135dd8f596e6483535f2c8420230217115732.png)
 
 Tools : Excel/Spreadsheet atau [XMind](https://xmind.app/)
 
 Contoh WBS : [Work Breakdown Structure in 2023 : How to Use a WBS in Project Management](https://medium.com/ganttpro-blog/the-power-of-a-work-breakdown-structure-wbs-in-project-management-47ef968cc754)
-

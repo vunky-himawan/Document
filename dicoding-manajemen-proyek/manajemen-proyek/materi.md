@@ -34,13 +34,13 @@ Nilai pertama adalah prioritas, manajer proyek dapat menambah nilai pada tim dan
 
 Berikut adalah gambar untuk mengatur tugas berdasarkan urgensi dan kepentingan
 
-![Gambar 1](/img/dos_dd03446f1f2d9366f964b036871ae56520230217162510.png)
+![Gambar 1](/dicoding-manajemen-proyek/img/dos_dd03446f1f2d9366f964b036871ae56520230217162510.png)
 
 ## Tanggung Jawab Project Manager
 
 Singkatnya, tanggung jawab seorang project manager adalah mengelola dan memantau detail proyek sehari-hari. Selain itu juga berinteraksi dengan tim.
 
-![Gambar 2](/img/dos_5a3cf1da16e10302580054ff32373ebf20230217162730.png)
+![Gambar 2](/dicoding-manajemen-proyek/img/dos_5a3cf1da16e10302580054ff32373ebf20230217162730.png)
 
 #### 1. Mengajar dan Membimbing
 
@@ -64,7 +64,7 @@ Apabila memiliki kemampuan komunikasi yang baik, project manager dapat bekerja s
 
 ## Kerja Sama Lintas Fungsi
 
-![Gambar 3](/img/dos_f2d223805e1d08acbb0ed8ef380180a820230217162826.png)
+![Gambar 3](/dicoding-manajemen-proyek/img/dos_f2d223805e1d08acbb0ed8ef380180a820230217162826.png)
 
 #### Perjelas Tujuan
 
@@ -85,7 +85,11 @@ Kenali upaya anggota tim lintas fungsi dengan tujuan untuk memastikan bahwa seti
 ## Kompetensi Utama Project Manager
 
 #### 1. Mengambil Keputusan
+
 #### 2. Komunikasi yang Baik
+
 #### 3. Keterampilan Organisasi yang Kuat
+
 #### 4. Adaptif dan Flexsible
+
 #### 5. Menangani Ambiguitas
